@@ -1,0 +1,11 @@
+C:\Projetos\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.Infra.deps.json
+C:\Projetos\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.Infra.dll
+C:\Projetos\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.Infra.pdb
+C:\Projetos\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.csprojAssemblyReference.cache
+C:\Projetos\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.AssemblyInfoInputs.cache
+C:\Projetos\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.AssemblyInfo.cs
+C:\Projetos\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.dll
+C:\Projetos\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.pdb
+C:\Projetos\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.dll
+C:\Projetos\Todo\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.pdb
+C:\Projetos\Todo\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.csproj.CopyComplete
